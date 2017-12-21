@@ -1,3 +1,11 @@
 # hello-world
-This is my hello world project. 
-I'm new to coding but I love it. 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My new hello world</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+  </body>
+
+</html>
